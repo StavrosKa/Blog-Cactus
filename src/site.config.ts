@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	*/
 	title: "stavroskarelis.com",
 	// Used as both a meta property (src/components/BaseHead.astro L:31 + L:49) & the generated satori png (src/pages/og-image/[slug].png.ts)
-	author: "Stavros",
+	author: "",
 	// Used as the default description meta property and webmanifest description
 	description: "My website",
 	// HTML lang property, found in src/layouts/Base.astro L:18 & astro.config.ts L:48
