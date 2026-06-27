@@ -6,7 +6,7 @@ tags: [AI, technology, systems]
 draft: false
 ---
 
-Infrastructure for AI is more than compute and storage. It is a network of services, data flows, and operational contracts.
+🌐 Infrastructure for AI is more than compute and storage. It is a network of services, data flows, and operational contracts.
 
 - Define clear boundaries between model training, inference, and monitoring.
 - Build observability into each layer so emergent behavior is visible, not hidden.

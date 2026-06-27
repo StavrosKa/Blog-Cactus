@@ -1,4 +1,4 @@
-# � My Personal Digital Garden
+# 🌵 My Personal Digital Garden
 
 Welcome to the repository of my personal blog. This project is built using **Astro v6**, styled with **Tailwind CSS**, and designed as a clean digital garden for AI and technology ideas.
 

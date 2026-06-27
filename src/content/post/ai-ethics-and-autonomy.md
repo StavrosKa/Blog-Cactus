@@ -6,7 +6,7 @@ tags: [AI, ethics, systems]
 draft: false
 ---
 
-AI systems are powerful because they can act at scale. The question is not whether they can make decisions, but how those decisions stay aligned with clear guardrails.
+🧭 AI systems are powerful because they can act at scale. The question is not whether they can make decisions, but how those decisions stay aligned with clear guardrails.
 
 - Use human-in-the-loop patterns for high-impact actions.
 - Design feedback loops that catch drift before it becomes a structural issue.
