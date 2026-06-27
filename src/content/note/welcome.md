@@ -1,9 +1,9 @@
 ---
 title: Hello, Welcome
-description: An introduction to using the note feature in Astro Cactus
+description: A quick introduction to the note stream in this digital garden
 publishDate: "2024-10-14T11:23:00Z"
 ---
 
-Hi, Hello. This is an example note feature included with Astro Cactus 🌵
+Hi, Hello. This is a starter note for the digital garden, focused on precise ideas and quick updates.
 
-They're for shorter, more concise posts that you'd like to share. They generally don't include headings, but hey, it's entirely up to you!
+Notes here are meant to be short, modular, and easy to revisit as your thinking evolves.
