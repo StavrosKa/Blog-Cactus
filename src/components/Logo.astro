@@ -1,0 +1,10 @@
+---
+type Props = {
+	class?: string;
+	title?: string;
+};
+
+const { class: className = "h-10 w-10", title = "stavroskarelis.com" } = Astro.props;
+---
+
+<img alt="" class={className} height="100" src="/icon.svg" title={title} width="100" />
