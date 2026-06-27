@@ -1,9 +1,9 @@
 ---
-title: Welcome
-description: A short note about how this site is organized
+title: Hello, Welcome
+description: An introduction to using the note feature in Astro Cactus
 publishDate: "2024-10-14T11:23:00Z"
 ---
 
-This space is meant to hold small, useful notes that I can revisit later.
+Hi, Hello. This is an example note feature included with Astro Cactus 🌵
 
-I use it for ideas, experiments, and short observations that are easier to keep here than in a long-form post.
+They're for shorter, more concise posts that you'd like to share. They generally don't include headings, but hey, it's entirely up to you!
