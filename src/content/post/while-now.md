@@ -1,8 +1,8 @@
 ---
 title: Build, learn repeat..
-description: 
+description: Devs conversation.
 publishDate: "2026-06-29T08:00:00Z"
-tags: [while, now]
+tags: [build, learn, repeat]
 draft: false
 pinned: true
 ---
