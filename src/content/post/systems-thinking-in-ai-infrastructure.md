@@ -6,8 +6,6 @@ tags: [AI, technology, systems thinking, machine learning]
 draft: false
 ---
 
-# Systems Thinking in AI Infrastructure
-
 > *"A system performs only as well as the interaction between its parts—not the strength of its strongest component."*
 
 Artificial intelligence often brings to mind powerful GPUs, massive datasets, or increasingly capable language models. While each of these elements is important, modern AI infrastructure succeeds because of how its components work together. This perspective is known as **Systems Thinking**—an approach that focuses on understanding relationships, dependencies, and feedback loops instead of optimizing isolated parts.

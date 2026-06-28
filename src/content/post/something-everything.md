@@ -30,11 +30,13 @@ Turns out, progress doesn't wait for certainty.
 It rewards momentum.
 
 So here's a small promise—to myself more than anyone reading this:
+
 :::code
 Build.
 Learn.
 Repeat.
 :::
+
 Not because every project will succeed.
 
 Not because every idea is brilliant.

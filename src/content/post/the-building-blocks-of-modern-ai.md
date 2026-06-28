@@ -6,15 +6,11 @@ tags: [transformers, AI, python, LLM]
 draft: false
 ---
 
-# The Building Blocks of Modern AI
-
 > *"Every powerful AI system is built from a surprisingly small number of fundamental ideas."*
 
 Artificial Intelligence has evolved rapidly over the last decade, but despite the impressive capabilities of modern models like ChatGPT, Claude, or Gemini, they all rely on a handful of foundational concepts. Understanding these building blocks helps explain why today's AI is capable of writing code, answering questions, and even acting as autonomous agents.
 
 Let's explore the technologies that changed AI forever.
-
----
 
 ## 🛠️ 1. Tokenization — Teaching AI to Read
 
