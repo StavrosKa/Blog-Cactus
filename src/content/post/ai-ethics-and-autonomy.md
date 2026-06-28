@@ -6,9 +6,6 @@ tags: [AI, ethics, autonomy, regulation, deepfake]
 draft: false
 ---
 
-
-# AI Ethics and Autonomy
-
 > *"Artificial intelligence reflects human intentions more than machine intelligence."*
 
 Artificial intelligence is no longer limited to chatbots and recommendation systems. Today's AI can generate realistic images, clone voices, analyze personal data, and even make autonomous decisions with minimal human intervention. While these capabilities unlock incredible opportunities, they also raise difficult ethical questions. Who is responsible when AI causes harm? How should society respond when technology is deliberately used to deceive or exploit others?

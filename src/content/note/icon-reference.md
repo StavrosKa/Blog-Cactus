@@ -4,13 +4,11 @@ description: A quick guide to the icons available for decorating notes and posts
 publishDate: "2026-06-28T09:00:00Z"
 ---
 
-# 🎨 Icon Gallery
+🎨 Icon Gallery
 
 This page contains my most frequently used icons for blog posts, notes, tutorials, and documentation.
 
----
-
-# 🤖 Artificial Intelligence
+🤖 Artificial Intelligence
 
 | Icon | Name |
 |------|------|
@@ -25,9 +23,7 @@ This page contains my most frequently used icons for blog posts, notes, tutorial
 | 📈 | `lucide:chart-column` |
 | 🎯 | `lucide:target` |
 
----
-
-# 💻 Programming
+💻 Programming
 
 | Icon | Name |
 |------|------|
@@ -46,9 +42,7 @@ This page contains my most frequently used icons for blog posts, notes, tutorial
 | 📂 | `lucide:folder-code` |
 | 📑 | `lucide:files` |
 
----
-
-# 🖥️ Infrastructure
+🖥️ Infrastructure
 
 | Icon | Name |
 |------|------|
@@ -63,9 +57,7 @@ This page contains my most frequently used icons for blog posts, notes, tutorial
 | 🔄 | `lucide:refresh-cw` |
 | ⚡ | `lucide:zap` |
 
----
-
-# 🔒 Security
+🔒 Security
 
 | Icon | Name |
 |------|------|
@@ -78,9 +70,7 @@ This page contains my most frequently used icons for blog posts, notes, tutorial
 | ⚠️ | `lucide:triangle-alert` |
 | ✅ | `lucide:badge-check` |
 
----
-
-# 📊 Data Science
+📊 Data Science
 
 | Icon | Name |
 |------|------|
@@ -93,9 +83,7 @@ This page contains my most frequently used icons for blog posts, notes, tutorial
 | 🔍 | `lucide:search` |
 | 🎲 | `lucide:dices` |
 
----
-
-# 🚀 Startup
+🚀 Startup
 
 | Icon | Name |
 |------|------|
@@ -108,9 +96,7 @@ This page contains my most frequently used icons for blog posts, notes, tutorial
 | 🤝 | `lucide:handshake` |
 | ⭐ | `lucide:star` |
 
----
-
-# 📚 Writing
+📚 Writing
 
 | Icon | Name |
 |------|------|
@@ -122,9 +108,7 @@ This page contains my most frequently used icons for blog posts, notes, tutorial
 | 📰 | `lucide:newspaper` |
 | 📄 | `lucide:file-text` |
 
----
-
-# 🎨 UI / UX
+🎨 UI / UX
 
 | Icon | Name |
 |------|------|
@@ -137,9 +121,7 @@ This page contains my most frequently used icons for blog posts, notes, tutorial
 | 👍 | `lucide:thumbs-up` |
 | 👎 | `lucide:thumbs-down` |
 
----
-
-# 🛠️ Utilities
+🛠️ Utilities
 
 | Icon | Name |
 |------|------|
@@ -153,42 +135,3 @@ This page contains my most frequently used icons for blog posts, notes, tutorial
 | 📥 | `lucide:download` |
 | 🗑️ | `lucide:trash-2` |
 | 🔔 | `lucide:bell` |
-
----
-
-# ⚖️ Material Symbols (Great for AI Articles)
-
-| Name |
-|------|
-| `material-symbols:psychology` |
-| `material-symbols:smart-toy` |
-| `material-symbols:memory` |
-| `material-symbols:data-object` |
-| `material-symbols:analytics` |
-| `material-symbols:security` |
-| `material-symbols:policy` |
-| `material-symbols:gavel` |
-| `material-symbols:hub` |
-| `material-symbols:account-tree` |
-
----
-
-## 💡 Tip
-
-You can use any Iconify icon with Astro Icon.
-
-Example:
-
-```astro
----
-import { Icon } from "astro-icon/components";
----
-
-<Icon name="lucide:brain" />
-<Icon name="lucide:rocket" />
-<Icon name="material-symbols:psychology" />
-```
-
-To browse thousands of available icons, visit:
-
-https://icon-sets.iconify.design/
