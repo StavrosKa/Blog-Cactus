@@ -12,7 +12,9 @@ Artificial intelligence is no longer limited to chatbots and recommendation syst
 
 Two recent real-world cases—the Taylor Swift deepfake incident in the United States and the Clearview AI controversy in Europe—demonstrate why ethical AI is no longer just a philosophical discussion. It has become a legal necessity.
 
-# 🛡️ Case Study 1: The Taylor Swift Deepfake Incident
+---
+
+## 🛡️ Case Study 1: The Taylor Swift Deepfake Incident
 
 In January 2024, AI-generated explicit images falsely depicting American singer Taylor Swift spread rapidly across social media. Within hours, millions of users had viewed and shared the images before platforms could respond. Although the content was entirely fabricated, its realism demonstrated how accessible generative AI had become—and how easily it could be weaponized against real people.
 
@@ -26,7 +28,9 @@ The controversy also intensified political discussions in the United States. Law
 
 Although the legislation was already under discussion, the Taylor Swift incident became a powerful example of why existing laws were struggling to keep pace with rapidly evolving AI technologies.
 
-# ⚖️ Case Study 2: Clearview AI and Europe's Response
+---
+
+## ⚖️ Case Study 2: Clearview AI and Europe's Response
 
 While the United States focused heavily on deepfakes, Europe faced a different ethical challenge.
 
@@ -44,7 +48,9 @@ The broader response came through the **European Union AI Act**, which entered i
 
 The legislation represents the world's first comprehensive legal framework specifically designed for artificial intelligence.
 
-# 🤖 Looking Ahead
+---
+
+## 🤖 Looking Ahead
 
 Neither of these cases suggests that artificial intelligence itself is unethical. Instead, they illustrate a familiar pattern in technological history: powerful tools inevitably reflect the intentions of those who use them.
 

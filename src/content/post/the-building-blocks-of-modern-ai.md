@@ -12,6 +12,8 @@ Artificial Intelligence has evolved rapidly over the last decade, but despite th
 
 Let's explore the technologies that changed AI forever.
 
+---
+
 ## 🛠️ 1. Tokenization — Teaching AI to Read
 
 Before an AI model can understand language, it must first convert text into numbers. This process is called **tokenization**.

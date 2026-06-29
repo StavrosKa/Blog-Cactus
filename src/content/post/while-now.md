@@ -7,7 +7,7 @@ draft: false
 pinned: true
 ---
 
-☕while(alive) { build(); learn(); repeat(); }
+## ☕ while(alive) { build(); learn(); repeat(); }
 
 People think developers spend all day writing code.
 
@@ -17,12 +17,12 @@ About 20% coding.
 
 The other 80% looks like this:
 
-:::code
+```python
 🤔 There must be a better way...
 🤨 Should I switch frameworks?
 😅 Maybe I'll rewrite everything.
 ☕ Coffee.
-:::
+```
 
 Then AI joins the conversation.
 
@@ -38,13 +38,13 @@ while not launched:
     overthink() 
 ```
 The funniest bug isn’t always in the code.
+
 ```python
 const developer = {
 
   ideas: Infinity,
 
   finishedProjects: 3
-
 };
 ```
 
@@ -52,7 +52,7 @@ Every week there’s a new framework, a faster model, or a shiny tool promising 
 
 Most won’t.
 
-So here’s my favorite rule:
+## So here’s my favorite rule:
 
 ```python
 if (project.isPerfect())
@@ -69,6 +69,7 @@ Users don’t care about perfect architecture.
 They care whether you solved their problem.
 
 And remember…
+
 ```python
 fmt.Println("The developer who wrote this terrible code? It was me... last week.")
 ```

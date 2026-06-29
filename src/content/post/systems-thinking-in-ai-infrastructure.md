@@ -12,6 +12,8 @@ Artificial intelligence often brings to mind powerful GPUs, massive datasets, or
 
 As AI models continue to grow, this mindset has become essential for researchers and engineers building reliable, scalable systems.
 
+---
+
 ## 🌐 Why Systems Thinking Matters
 
 Training a large language model is far more complex than simply connecting thousands of GPUs. Every stage of the pipeline depends on another: data collection, storage, networking, preprocessing, model training, evaluation, deployment, and continuous monitoring.
@@ -24,6 +26,8 @@ For example, doubling the number of GPUs may appear to increase training speed. 
 In complex systems, the slowest component often determines the performance of the entire pipeline.
 :::
 
+---
+
 ## 🚀 A Real-World Example
 
 One of the best-known examples comes from **Google's Tensor Processing Units (TPUs)**. Rather than focusing exclusively on faster AI chips, Google designed an ecosystem in which specialized hardware, distributed software, networking, and machine learning frameworks work together as a unified platform.
@@ -35,6 +39,8 @@ The result demonstrated an important engineering principle: improving communicat
 :::tip
 The most scalable AI infrastructure is rarely built by maximizing hardware performance alone. It is built by minimizing bottlenecks across the entire system.
 :::
+
+---
 
 ## 🤖 Looking Ahead
 
