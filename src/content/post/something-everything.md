@@ -1,5 +1,5 @@
 ---
-title: This is the beginning of something or everything.
+title: This is the beginning of something or everything
 description: A placeholder pinned post with lorem ipsum text for testing the pinned posts feature.
 publishDate: "2026-06-28T08:00:00Z"
 tags: [start, something, everything, pinned]

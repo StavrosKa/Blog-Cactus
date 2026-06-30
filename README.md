@@ -33,4 +33,35 @@ description: "SEO description (50-160 chars)"
 publishDate: "17 June 2026"
 tags: ["tech", "thoughts"]
 draft: false
+
 ---
+## 🗺️ Site Map
+
+```
+/
+├── 🏠 Home
+│   ├── 📌 Pinned Posts
+│   ├── 📝 Latest Posts
+│   └── 📒 Recent Notes
+│
+├── 👤 About
+│   ├── Who I am
+│   ├── What I do
+│   └── Links
+│
+├── 📝 Blog
+│   ├── AI
+│   ├── Programming
+│   ├── Tutorials
+│   └── Productivity
+│
+├── 📒 Notes
+│   ├── Ideas
+│   ├── References
+│   ├── Snippets
+│   └── Learning Journal
+│
+├── 🔍 Search
+│
+└── 🌙 Theme Toggle
+```

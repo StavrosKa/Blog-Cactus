@@ -7,7 +7,7 @@ draft: false
 pinned: true
 ---
 
-## ☕ while(alive) { build(); learn(); repeat(); }
+## while(alive) { build(); learn(); repeat(); }
 
 People think developers spend all day writing code.
 
